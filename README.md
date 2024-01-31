@@ -1,5 +1,6 @@
-# IBM-data-analyst-assignments
-IBM Data Analyst Capstone Project
+# IBM Data Analyst Capstone Project
+
+IBM-data-analyst-assignments
 
 In this venture, we embark on a role as a newly recruited Data Analyst at a renowned global IT and business consulting services firm. This organization is celebrated for its cutting-edge IT solutions and boasts a team of profoundly experienced IT consultants. To maintain a competitive edge and stay abreast of evolving technologies, our firm consistently engages in data-driven analysis to pinpoint emerging skill requirements in the industry.
 
