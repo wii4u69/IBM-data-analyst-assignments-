@@ -11,4 +11,4 @@ Following the data collection phase, our focus will shift to a thorough analysis
 To ensure clarity and systematic progression, each stage of our data analysis endeavor will be meticulously documented in separate notebooks within this repository.
 
 Additionally, supplementary files that are crucial for a comprehensive understanding of our analyses will also be made available.
-This project not only aligns with our organization's commitment to staying at the forefront of technological advancements but also enhances our capability to forecast and adapt to the dynamic demands of the IT industry.
+This project not only aligns with commitment to staying at the forefront of technological advancements but also enhances our capability to forecast and adapt to the dynamic demands of the IT industry.
